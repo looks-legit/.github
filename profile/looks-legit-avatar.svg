@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Looks Legit investigator</title>
+  <desc id="desc">The Looks Legit detective mascot, cropped for a profile avatar.</desc>
+  <defs>
+    <clipPath id="circle"><circle cx="256" cy="256" r="256"/></clipPath>
+  </defs>
+  <g clip-path="url(#circle)">
+    <image href="looks-legit-mascot.png" x="-245" y="-99" width="1000" height="1040" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+</svg>
