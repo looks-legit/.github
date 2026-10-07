@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./looks-legit-avatar-small.png" alt="Looks Legit investigator mascot" width="220">
+  <img src="./looks-legit-mascot.png" alt="Full Looks Legit investigator mascot holding a magnifying glass" width="360">
 </p>
 
 # Looks Legit
