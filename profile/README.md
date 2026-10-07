@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./looks-legit-avatar.svg" alt="Looks Legit investigator mascot" width="220">
+  <img src="./looks-legit-avatar-small.png" alt="Looks Legit investigator mascot" width="220">
 </p>
 
 # Looks Legit
@@ -29,5 +29,5 @@ Looks Legit does not promise that a website is safe. The private beta is designe
 
 ## Mascot assets
 
-- [Square avatar SVG](./looks-legit-avatar.svg) and [compressed avatar PNG](./looks-legit-avatar-small.png) for profile images.
-- [Full mascot SVG](./looks-legit-mascot.svg) and [original transparent PNG](./looks-legit-mascot.png) for larger placements.
+- [Compact avatar PNG](./looks-legit-avatar-small.png) for profile images; [square avatar SVG](./looks-legit-avatar.svg) is available as a backup.
+- [Original full transparent PNG](./looks-legit-mascot.png) for larger placements; [full mascot SVG](./looks-legit-mascot.svg) is available as a backup.
